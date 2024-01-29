@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aagnay Kariyal
 ======================================================================================================================================
 
-Software Machine Learning Engineer | Data Scientist
+Data Scientist | Software Machine Learning Engineer
 --------------------------------------------------------------
 
 Proficient software engineer focused on delivering state of the art machine learning solutions
 
 * 🌍  I'm based in Waterloo, Ontario
-* 🖥️  See my portfolio at [this link](http://github.com/aagnaykariyal)
 * ✉️  You can contact me at [aagnaykariyal@gmail.com](mailto:aagnaykariyal@gmail.com)
 
 ### Skills
